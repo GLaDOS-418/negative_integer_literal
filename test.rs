@@ -8,4 +8,7 @@ fn g( ) -> i64 {
 
 fn main( ) {
     println!("{}\n{}", f( ), g( ));
+
+    println!( "{}", -9i32.abs( ) );   // prints -9
+    println!( "{}", (-9i32).abs( ) ); // prints  9
 }
