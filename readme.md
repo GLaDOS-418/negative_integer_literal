@@ -1,3 +1,7 @@
+this repository contains code examples for the blog: 
+
+https://glados-418.github.io/posts/negative-integer-literals/
+
 ``` Bash
 #### Java
 $ javac test.java
